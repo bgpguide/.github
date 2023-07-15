@@ -34,9 +34,11 @@ We welcome contributions from individuals who share our passion for knowledge, c
 Connect with us on our website, join our community forums, or reach out to us via email. We'd love to hear from you, collaborate, and work together towards our shared mission.
 
 Website: [bgp.guide](https://bgp.guide)
+
 Email: [admin@bgp.guide](mailto:admin@bgp.guide)
 
 Thank you for your support and interest in bgp.guide. Together, let's empower knowledge, foster collaboration, and create more accessible networks for all.
 
 Sincerely,
+
 bgp.guide contributors
